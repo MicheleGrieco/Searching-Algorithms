@@ -13,7 +13,7 @@ A brief list of all the algorithms (implemented in Java):
 - Meta Binary Search | One-Sided Binary Search (TODO)
 - Jump Search
 - Interpolation Search
-- Exponential Search (TODO)
+- Exponential Search
 - Fibonacci Search (TODO)
 - The Ubiquitous Binary Search (TODO)
 
