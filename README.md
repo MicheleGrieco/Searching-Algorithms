@@ -14,7 +14,7 @@ A brief list of all the algorithms (implemented in Java):
 - Jump Search
 - Interpolation Search
 - Exponential Search
-- Fibonacci Search (TODO)
+- Fibonacci Search
 - The Ubiquitous Binary Search (TODO)
 
 <! -- Don't forget to explain what every algorithm does --> 
